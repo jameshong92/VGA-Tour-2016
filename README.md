@@ -1,4 +1,4 @@
-# VGA Tour 2016
+# VGA Tour 2016 for iOS
 
 ### Team Potatoes
 * Ephraim Park
