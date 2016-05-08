@@ -1,6 +1,6 @@
 # VGA Tour 2016 for iOS
 
->VGA Tour 2016 is an augmented reality mini-golf game that uses a Google Cardboard with an AR Camera device paired with a remote mobile device as an input controller. It provides an immersive experience replicating real-world mini golf experience in a virtual environment by using elements of travel, wayfinding and golf club manipulation. By using a mobile input device, users interact with the system using natural gestures, leveraging user familiarity of the touchscreen interface and accelerometer. Prioritizing an optimal user experience, the system provides rich user interface features with robust visual, auditory and sensual cues.
+VGA Tour 2016 is an augmented reality mini-golf game that uses a Google Cardboard with an AR Camera device paired with a remote mobile device as an input controller. It provides an immersive experience replicating real-world mini golf experience in a virtual environment by using elements of travel, wayfinding and golf club manipulation. By using a mobile input device, users interact with the system using natural gestures, leveraging user familiarity of the touchscreen interface and accelerometer. Prioritizing an optimal user experience, the system provides rich user interface features with robust visual, auditory and sensual cues.
 
 ### Team Potatoes
 * Ephraim Park
