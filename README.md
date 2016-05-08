@@ -8,7 +8,7 @@
 * Min Woo Kim
 
 ### Video Demo
-[![Demo Video](http://minwookim.co/assets/vga_title.png =400x)](https://drive.google.com/file/d/0BxY5CFPLMkgsQUplcWc1OHBpM28/preview "VGA Tour 2016")
+[![Demo Video](http://minwookim.co/assets/vga_title.png)](https://drive.google.com/file/d/0BxY5CFPLMkgsQUplcWc1OHBpM28/preview "VGA Tour 2016")
  
 ### Latest Update
 May 5, 2016
